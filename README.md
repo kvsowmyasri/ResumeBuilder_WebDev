@@ -16,5 +16,5 @@ Chatbot with small talk and help enabled.<br/>
 
 
 
-Click here for understanding our app https://pro.panopto.com/Panopto/Pages/Viewer.aspx?tid=94d27a3d-8c07-4f77-a9bb-ade1010bde7blink .
+Click here for understanding our app https://pro.panopto.com/Panopto/Pages/Viewer.aspx?tid=94d27a3d-8c07-4f77-a9bb-ade1010bde7blink . <br/>
 Power Point Presentation https://docs.google.com/presentation/d/1p-7mqLKyYfLoIb7DXwyMg9zLJs9WnxASR5C1hH4EOAg/edit?usp=sharing
